@@ -1,0 +1,21 @@
+button {
+    display: inline-block;
+    background-color: rgb(129, 132, 136);
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    outline: none;
+    box-shadow: 5px 5px rgb(179, 178, 178);
+}
+
+button:hover {
+    background-color: lightslategrey;
+}
+
+button:active {
+    background-color: lightslategrey;
+    box-shadow: 3px 3px rgb(179, 178, 178);
+}

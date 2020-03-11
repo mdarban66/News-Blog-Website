@@ -1,0 +1,23 @@
+@import "grid-styles-boxes.css";
+@import "responsive-styles.css";
+@import "card-styles.css";
+@import "button-style.css";
+@import "follow-style";
+body {
+    /* background-color: rgb(161, 160, 160); */
+    text-overflow: ellipsis;
+    font-family: 'Times New Roman', serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(238, 13, 62);
+}
