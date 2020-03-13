@@ -15,7 +15,7 @@
 
 #header {
     grid-area: hd;
-    background-image: url("/Pictures/news2.jpg");
+    background-image: url("../Pictures/news2.jpg");
     height: 300px;
     background-size: cover;
     opacity: 0.95;
